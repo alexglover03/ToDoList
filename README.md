@@ -1,2 +1,2 @@
 # ToDoList
-A to do list - applying EJS
+A To Do list - applying EJS
